@@ -1,8 +1,8 @@
-let name = "Your Name Here"; 
+let name = "Name Here"; 
 
 let whatDoYouWannaBecomeInYourLife = "programmer";
 
-let gender = "Your Gender Here";
+let gender = "Gender Here";
 
 let twitterHandle = "yourhandle";
 
